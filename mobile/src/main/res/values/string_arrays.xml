@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="vocabulario">
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+        <item>@string/agua</item>
+    </string-array>
+
+
+</resources>
